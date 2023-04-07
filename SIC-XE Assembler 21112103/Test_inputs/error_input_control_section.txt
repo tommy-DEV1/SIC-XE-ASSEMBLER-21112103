@@ -1,0 +1,6 @@
+************PASS1************
+Line: 205WARNING(NOT AN ERROR ) : Duplicate symbol for 'MAXLEN'. Previously defined at 01000
+
+
+************PASS2************
+Line: 145Can't fit into program counter based or base register based addressing please use format 4 .
